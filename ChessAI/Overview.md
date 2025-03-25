@@ -1,0 +1,2 @@
+# This is heavily a WORK IN PROGRESS
+ This began back when I was in highschool. Code is redundant and inefficent. Many of the lines of code contain semntaic as well as optimization issues that I plan to fix within the next few years
